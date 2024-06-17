@@ -17,7 +17,8 @@ const validCredentials = [
     { email: 'hr@klhomeappliances.com', password: 'Saloni@12KL', website: 'https://sites.google.com/klhomeappliances.com/kl-home-appliances-saloni?usp=sharing' },
     { email: 'khushikumari@klhomeappliances.com', password: 'Khushi@123KL', website: 'https://sites.google.com/klhomeappliances.com/kl-home-appliances-deo?usp=sharing' },
     { email: 'mis.mdo@klhomeappliances.com', password: 'Abhishek@KLmdo', website: 'https://sites.google.com/klhomeappliances.com/mdo?usp=sharing' },
-    { email: 'ajay.store@klhomeappliances.com', password: 'Ajay@12KL', website: 'https://sites.google.com/klhomeappliances.com/ajay-sir?usp=sharing' }
+    { email: 'ajay.store@klhomeappliances.com', password: 'Ajay@12KL', website: 'https://sites.google.com/klhomeappliances.com/ajay-sir?usp=sharing' },
+    { email: 'Ajay@klhomeappliances.com', password: 'AjaySingh@12KL', website: 'https://sites.google.com/klhomeappliances.com/ajay?usp=sharing' }
 ];
 
 function handleLogin(event) {
